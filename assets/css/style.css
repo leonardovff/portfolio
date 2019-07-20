@@ -15,7 +15,7 @@ main > article {
   color: #565656;
   text-align: justify;
 }
-main > article > h3 {
+main > article > h3 > a {
   color: #B24F03;
   font-size: 1.07em;
 }
