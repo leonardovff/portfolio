@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+}
+body {
+  min-height: 100%;
+  position: relative;
+  font-size: 12pt;
+  font-family: "aktiv-grotesk";
+  letter-spacing: 0.02em;
+}
+body, html, h1, main, header, h1, h2, img{
+  box-sizing: border-box;
+}
+body, html, h1, img, div, article, main, p, h3{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+header, main{
+  height: 100vh;
+}

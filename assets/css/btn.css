@@ -1,0 +1,16 @@
+.btn-circle{
+  background: #009EB2;
+  border-radius: 50%; 
+  display: flex;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+}
+.btn-circle > span{
+  display: inline-block;
+  width: 0.35em;
+  height: 0.35em;
+  transform: translateY(-20%) rotate(135deg);
+  border-top: 2px solid white;
+  border-right: 2px solid white;
+}
